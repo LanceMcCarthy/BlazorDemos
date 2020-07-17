@@ -1,6 +1,5 @@
 # BlazorDemos
-A repository to be an example for many different scenarios specific to using Telerik UI for Blazor.
-
+A repository to be an example for how to use Telerik Blazor UI in an azure CI pipeline
 ## Azure DevOps
 | Build Definition  | Master |
 |----------|----------|
